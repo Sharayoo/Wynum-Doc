@@ -8,7 +8,7 @@ It’s a platform to use the current data and formats like  RFID , QR Code, Barc
 
 ----------
 
-**G****etting Started**
+**Getting Started**
 
 Visit [https://demo.wynum.com](https://demo.wynum.com/#!/new)
 Sign up with your valid email id and password. This will automatically log you in.
